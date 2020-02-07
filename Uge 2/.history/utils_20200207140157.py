@@ -18,13 +18,13 @@ def write_filenames_to_file(filename, path):
 
 lst = []
 def write_filenames_to_file_recursively(path):
-    root = path
+    root = folderpath
     for root, dirs, files in os.walk(".", topdown=False):
         for name in files:
             lst.append(os.path.join(root, name))
         for name in dirs:
             lst.append(os.path.join(root, name))
-    write_list_to_file("test.csv", lst)
+    write_list_to_file("test.txt", lst)
     # entries = os.listdir(path)
     # for entry in entries:
     #     if os.path.isdir(entry):
