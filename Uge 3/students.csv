@@ -1,0 +1,3 @@
+NAME,GENDER,DATASHEET,IMG_URL
+Peter Olsen,Male,"DataSheet([Course( 'C++', 1.01, 'Elon Musk', 30, 12), Course( 'JavaScript', 1.01, 'Elon Musk', 10, 0), Course( 'JavaScript', 1.01, 'Steve Jobs', 10, 10)])",img2
+Mette Pedersen,Male,"DataSheet([Course( 'Python', 1.01, 'Steve Jobs', 30, 12), Course( 'C++', 3.12, 'Bill Gates', 10, 2), Course( 'C++', 1.01, 'Elon Musk', 20, 0)])",img1
