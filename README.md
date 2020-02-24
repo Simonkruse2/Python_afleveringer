@@ -10,3 +10,7 @@
 ## [Uge 3 Overordnet - nåede ikke at lave exceptions og ej heller plotting](https://github.com/Simonkruse2/Python_afleveringer/tree/master/Uge%203)
 
 [classes.py](https://github.com/Simonkruse2/Python_afleveringer/tree/master/Uge%203/mypackage/classes)
+
+## [Uge 4 Overordnet - Lavede ikke de ekstra opgaver](https://github.com/Simonkruse2/Python_afleveringer/tree/master/Uge%204)
+
+[exercises.py](https://github.com/Simonkruse2/Python_afleveringer/blob/master/Uge%204/exercises.py)
