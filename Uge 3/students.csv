@@ -1,3 +1,3 @@
 NAME,GENDER,DATASHEET,IMG_URL
-Peter Olsen,Male,"DataSheet([Course( 'C++', 1.01, 'Elon Musk', 30, 12), Course( 'JavaScript', 1.01, 'Elon Musk', 10, 0), Course( 'JavaScript', 1.01, 'Steve Jobs', 10, 10)])",img2
-Mette Pedersen,Male,"DataSheet([Course( 'Python', 1.01, 'Steve Jobs', 30, 12), Course( 'C++', 3.12, 'Bill Gates', 10, 2), Course( 'C++', 1.01, 'Elon Musk', 20, 0)])",img1
+Peter Olsen,Male,"DataSheet([Course( 'Python', 1.62, 'Bill Gates', 30, 0), Course( 'C++', 3.12, 'Bill Gates', 10, 2), Course( 'Java', 1.01, 'Bill Gates', 10, 7)])",img2
+Peter Olsen,Female,"DataSheet([Course( 'JavaScript', 3.12, 'Steve Jobs', 30, 4), Course( 'Java', 3.12, 'Steve Jobs', 20, 12), Course( 'Java', 1.62, 'Steve Jobs', 10, 0)])",img2
